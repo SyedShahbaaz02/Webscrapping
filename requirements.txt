@@ -18,3 +18,4 @@ Werkzeug==0.16.0
 selenium<4.10
 requests
 pymongo[srv]
+python-3.7.10
